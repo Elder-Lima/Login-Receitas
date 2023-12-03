@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { View, Text, Image, Modal, TouchableOpacity, ScrollView } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 
-
+import empadaoFoto from '../../imagens/empadao.jpg'
 import { Animated } from "react-native";
 
 function Empadao ( ) {

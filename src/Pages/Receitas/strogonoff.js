@@ -6,8 +6,6 @@ import { LinearGradient } from 'expo-linear-gradient';
 
 import strogonoffFoto from '../../imagens/strogonoff.jpg';
 
-import Header from '../../components/HeaderFunction/header.js'
-
 import { Animated } from "react-native";
 
 function Strogonoff ( ) {
